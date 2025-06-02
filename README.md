@@ -8,19 +8,32 @@ Welcome to my **Java Data Structures and Algorithms (DSA)** Challenge! This repo
 ## 🗂️ Repository Structure
 
 ```
-.
-├── Arrays/
-├── Strings/
-├── LinkedLists/
-├── Stacks/
-├── Queues/
-├── Trees/
-├── Graphs/
-├── Recursion/
-├── Sorting/
-├── Searching/
-├── DynamicProgramming/
-└── README.md
+Java_DSA_Challenge/
+├── 01_Introduction_to_Java/
+├── 02_Variables_and_IO/
+├── 03_Conditional_Statements/
+├── 04_Loops/
+├── 05_Pattern_Questions/
+├── 06_Functions_and_Methods/
+├── 07_Time_Complexity/
+├── 08_Arrays_1D_2D/
+├── 09_Strings/
+├── 10_StringBuilder/
+├── 11_Operators_and_Binary/
+├── 12_Bit_Manipulation/
+├── 13_Sorting/
+├── 14_Recursion/
+├── 15_Backtracking/
+├── 16_Merge_Quick_Sort/
+├── 17_OOP/
+├── 18_ArrayList_Collections/
+├── 19_Linked_Lists/
+├── 20_Stack_and_Queue/
+├── 21_Trees_and_BST/
+├── 22_Hashing/
+├── 23_Tries/
+├── 24_Graphs/
+
 ```
 
 Each folder contains:
