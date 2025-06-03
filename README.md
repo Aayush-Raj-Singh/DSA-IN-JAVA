@@ -57,7 +57,7 @@ Each folder contains:
 | Date | Topic | Problems Solved | Notes |
 |------|-------|------------------|-------|
 | 2025-06-02 | Introduction to Java | 1 | Uses of java programming|
-| ... | ... | ... | ... |
+| 2025-06-03 | Variables_and_IO | 5 | Take input and print |
 
 > 📌 *Updated regularly as I progress.*
 
