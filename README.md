@@ -58,8 +58,8 @@ Each folder contains:
 |------|-------|------------------|-------|
 | 2025-06-02 | Introduction to Java | 1 | Uses of java programming|
 | 2025-06-03 | Variables_and_IO | 5 | Take input and print |
-| 2025-06-04 | 03_Conditional_Statements | 4 | Conditional problems|
-| 2025-06-05 | 04_Loops | 2 | Uses of loops and nested loops |
+| 2025-06-04 | Conditional_Statements | 4 | Conditional problems|
+| 2025-06-05 | Loops | 2 | Uses of loops and nested loops |
 
 > 📌 *Updated regularly as I progress.*
 
